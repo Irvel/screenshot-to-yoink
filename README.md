@@ -1,3 +1,6 @@
+## UNMANTAINED
+Warning, this script is unmantained since I no longer use a Mac. I have no idea if it works or not.
+
 # Screenshot to Yoink
 This is a simple [Alfred](https://www.alfredapp.com) script that captures screenshots directly into the Yoink app. This was inspired by the [Automator workflow from the Yoink blog](https://eternalstorms.wordpress.com/2015/01/15/capture-selective-screenshots-in-yoink/ "Capture Selective Screenshots in Yoink with Automator"), and the functionality is fundamentally the same. Using Alfred however, is quite a bit faster than using Automator.
 
